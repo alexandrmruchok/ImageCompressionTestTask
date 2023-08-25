@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>PBButton.qml</file>
+        <file>PBComboBox.qml</file>
+        <file>PBDialog.qml</file>
+        <file>qmldir</file>
+    </qresource>
+</RCC>

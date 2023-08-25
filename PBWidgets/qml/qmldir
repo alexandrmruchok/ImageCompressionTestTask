@@ -1,0 +1,5 @@
+module PBWidgets
+PBButton 1.0 PBButton.qml
+PBDialog 1.0 PBDialog.qml
+PBComboBox 1.0 PBComboBox.qml
+plugin pbwidgets
